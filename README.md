@@ -85,5 +85,5 @@ Burst Rotation tweaks
 ## Disclaimer:  
 I can't help you with Aimsharp client issues. If your Aimsharp doesn't work, please fix that first.  
 Auto Spell Reflection is what it is - i.e. you can never really know if a spell is being cast on you unless they target you (i.e. don't use mouseover macros etc), so it doesn't catch all - but some atleast!   
-Disarm is only for Avatar at the moment, perhaps should add Avenging Wrath too? Not sure how good it's against Rets. **Fixed in version 1.1, to be released.   
-Forgot to add Ice Block to Auto Shattering Throw, woopsie - next version! **Fixed in version 1.1, to be released.  
+Disarm is only for Avatar at the moment, perhaps should add Avenging Wrath too? Not sure how good it's against Rets. **Fixed in version 1.1, to be released.**  
+Forgot to add Ice Block to Auto Shattering Throw, woopsie - next version! **Fixed in version 1.1, to be released**   
