@@ -77,7 +77,7 @@ Disarm without target!
 Auto Piercing Howl when target isn't in range and Hamstring isn't applied!  
 •	Not sure, but could be neat if you're lazy I guess?  
 Burst Rotation tweaks
-• I'm not sure if it's optimal yet, I think we can do better! 
+• I'm not sure if it's optimal yet, I think we can do better!  
 • **Fixed in version 1.1, to be released, both standard and burst rotation optimized**  
 
 ***
