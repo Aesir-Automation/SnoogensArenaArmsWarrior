@@ -44,7 +44,7 @@ Toggles Defensive Stance to be always On (off default)
 
   
 ## Queues:  
-I don't personally use Queue commands (because I love spamming buttons, so I use "/xxxxx wait 1" instead) - but if you do, here are the ones available.  
+I don't personally use Queue commands (because I love spamming buttons, so I use `/xxxxx wait 1` instead) - but if you do, here are the ones available.  
 
 `/xxxxx StormBolt`  
 Queues Storm Bolt on the next GCD  
