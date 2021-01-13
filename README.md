@@ -3,7 +3,7 @@
 A PVP only rotation bringing all the nifty features that you’ve already seen and building upon it!  
 Special thanks to @Vid for supplying such a great foundation for Arms Warrior PVP - without it I wouldn't have learned all this.  
 
-Featuring:  
+**Featuring:**  
 Burst Mode!  
 •	Revised Burst rotation!  
 •	Trinket on Burst!  
@@ -28,7 +28,7 @@ No Rage wasting!
 •	Overpower preferred on Evasion!  
 •	Condemn on BoP!  
 
-Toggles:  
+**Toggles:**  
 /xxxxx Burst  
 - Toggles Burst mode rotation (off default)  
 /xxxxx Potions  
@@ -47,10 +47,10 @@ I don't personally use Queue commands (because I love spamming buttons, so I use
 /xxxxx Bladestorm  
 - Queues Bladestorm on the next GCD  
 
-More to come, based on your feedback!  
+**More to come, based on your feedback!**  
 Please provide me (in PM, preferably) with your direct feedback. A feature not working as you expect? Rotation not performing what you believe is optimal? Anything!  
 
-To be looked into:  
+**To be looked into:**  
 Auto Stormbolt and Intimidating Shout Options  
 •	Automatically Stormbolt or Intimidating Shouts any healer to extend a CC Chain  
 •	Automatically Stormbolts or Intimidating Shouts any DPS with cooldowns running  
@@ -65,7 +65,7 @@ Auto Piercing Howl when target isn't in range and Hamstring isn't applied!
 Burst Rotation tweaks
 • I'm not sure if it's optimal yet, I think we can do better!  
 
-Disclaimer:  
+**Disclaimer:**  
 I can't help you with Aimsharp client issues. If your Aimsharp doesn't work, please fix that first.  
 Auto Spell Reflection is what it is - i.e. you can never really know if a spell is being cast on you unless they target you (i.e. don't use mouseover macros etc), so it doesn't catch all - but some atleast!   
 Disarm is only for Avatar at the moment, perhaps should add Avenging Wrath too? Not sure how good it's against Rets.  
