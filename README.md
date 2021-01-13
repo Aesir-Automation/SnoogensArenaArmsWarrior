@@ -34,11 +34,11 @@ No Rage wasting!
 
 ## Toggles:  
 `/xxxxx Burst`  
-- Toggles Burst mode rotation (off default)  
+Toggles Burst mode rotation (off default)  
 `/xxxxx Potions`  
-- Toggles use of usable item (such as Phial of Serenity) (off default)  
+Toggles use of usable item (such as Phial of Serenity) (off default)  
 `/xxxxx DefensiveStance`  
-- Toggles Defensive Stance to be always On (off default)  
+Toggles Defensive Stance to be always On (off default)  
 
 ***
 
@@ -47,13 +47,13 @@ No Rage wasting!
 I don't personally use Queue commands (because I love spamming buttons, so I use "/xxxxx wait 1" instead) - but if you do, here are the ones available.  
 
 `/xxxxx StormBolt`  
-- Queues Storm Bolt on the next GCD  
+Queues Storm Bolt on the next GCD  
 `/xxxxx RallyingCry`  
-- Queues Rallying Cry on the next GCD  
+Queues Rallying Cry on the next GCD  
 `/xxxxx IntimidatingShout`  
-- Queues Intimidating Shout on the next GCD  
+Queues Intimidating Shout on the next GCD  
 `/xxxxx Bladestorm`  
-- Queues Bladestorm on the next GCD  
+Queues Bladestorm on the next GCD  
 
 ***
 
