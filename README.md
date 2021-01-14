@@ -3,7 +3,7 @@
 A PVP only rotation bringing all the nifty features that you’ve already seen and building upon it!  
 Special thanks to @Vid for supplying such a great foundation for Arms Warrior PVP - without it I wouldn't have learned all this.  
 
-Place the `Snoogens Arena Arms Warrior` file in a new folder under `X:\AimsharpFolder\Bin\Rotations`  
+Unzip and place the `Snoogens Arena Arms Warrior` folder in a new folder under `X:\AimsharpFolder\Bin\Rotations`  
 
 ***
 
@@ -23,9 +23,9 @@ Automatic Spell Reflect!
 •	CCs!  
 •	Big Damage!  
 Automatic Disarm!  
-•	Avatar? I don’t think so!  
+•	Avatar? Avenging Wrath? I don’t think so!  
 Automatic Shattering Throw!  
-•	Divine Shield be gone!  
+•	Divine Shield and Ice Block be gone!  
 No Rage wasting!  
 •	No Hamstring on Freedom!  
 •	No Damage on Immunities!  
@@ -76,14 +76,12 @@ Disarm without target!
 •	Too lazy to target the Warrior who just popped Avatar?  
 Auto Piercing Howl when target isn't in range and Hamstring isn't applied!  
 •	Not sure, but could be neat if you're lazy I guess?  
-Burst Rotation tweaks  
-• I'm not sure if it's optimal yet, I think we can do better!  
+Burst Rotation tweaks 
 • **Fixed in version 1.1, to be released, both standard and burst rotation optimized**  
+• Don't like the rotation? Give me your feedback!  
 
 ***
 
 ## Disclaimer:  
 I can't help you with Aimsharp client issues. If your Aimsharp doesn't work, please fix that first.  
-Auto Spell Reflection is what it is - i.e. you can never really know if a spell is being cast on you unless they target you (i.e. don't use mouseover macros etc), so it doesn't catch all - but some atleast!   
-Disarm is only for Avatar at the moment, perhaps should add Avenging Wrath too? Not sure how good it's against Rets. **Fixed in version 1.1, to be released.**  
-Forgot to add Ice Block to Auto Shattering Throw, woopsie - next version! **Fixed in version 1.1, to be released**   
+Auto Spell Reflection is what it is - i.e. you can never really know if a spell is being cast on you unless they target you (i.e. don't use mouseover macros etc), so it doesn't catch all - but some atleast!    
