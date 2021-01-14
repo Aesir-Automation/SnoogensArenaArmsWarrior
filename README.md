@@ -1,9 +1,9 @@
-# Snoogens Arena Arms Warrior v1.0
+# Snoogens Arena Arms Warrior v1.1
 
 A PVP only rotation bringing all the nifty features that you’ve already seen and building upon it!  
 Special thanks to @Vid for supplying such a great foundation for Arms Warrior PVP - without it I wouldn't have learned all this.  
 
-Place the `rotation.as` file in a new folder under `X:\AimsharpFolder\Bin\Rotations`  
+Place the `Snoogens Arena Arms Warrior` file in a new folder under `X:\AimsharpFolder\Bin\Rotations`  
 
 ***
 
