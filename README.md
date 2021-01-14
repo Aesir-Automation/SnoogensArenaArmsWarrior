@@ -91,7 +91,7 @@ You can use WeakAuras to see what you've toggled on, helps to realize if you've 
 Here's an example for Burst.  
 `!WA:2!fxvZUnsrq4yIIwXCiSyqr7Yfmrak7s0QDbPiUebE8oMKvMeNXtsw4ItptxJNMDC3T6UhNFUG2CApWj)i4ZCYpbOCGRmyTpb7JqEbGQ7XjBccotlzpDxZN6QQV6RQPw76dRtRtF1NoHLi49efQeOwyIixOE2I4sD6UPPAWS13(Z)XF9BlSqTPeEsMq1vW4M4wb7efeolriYPIJ59oMjHJU4QJb0bqMIKyycUEJqTHOmEXPmotN55JpmENBuSbdaLE5pxnF7V7BovcXjfAJy4B0fXWiGB6vKMYozA)wn7f1VxuZWOqN94TasUj7ACDvaIlSx3GoDc5KHG27CTeYZ3MQ9kFp5FMwWDb0Ao4RpiVNrT(isEb8aVg4kxKqYBKmIO2Cv)cL2SQZmlTHdAdcN2Wb3TZzBZnTWByYaUdRDPatHI3Wi4fdJb1AvEyZnFIdbKRb8g5cZnUv7PQB(w3uimGPnGQ1be1AwhT(JRIuGt9WF(firglZjNcQWKmi5fL1NwXE9DmjY7McDf9ON26GMH93V7tBgfmHcXiTgHGuBf0PB797mUGpVmScsw)Y)ZK1JVzEkFFRsAeevfFFVGc)6cxIQqqXj5hGAimq37YxaGSjwXtmHem0Zgt4SH2D8nkF32ZOfk3bh1O0ak6P6YL95coCbq0agIaFGj7oNBpz5MYh6pKW4TlxR8bLlx(WYV4oLRJp8(Nwq(uJun6aiBckiTvou5)rVAfzDdCIPVoJG9fpVQJQ2yNn7FR(zs5DVbIwU2VA1QT4BQSc5PUgo)M7hTR8dCgjfyfgZLKdzutMFt84LUxG6FG6m(YzvnR)WCpEH79)eQnyPNwU0eLaLgqeA0FND3jOCzfg1wmtCaF7uGQqnvWnY72wXoRXEfekMNKgrr3k3UTNgX0S4C4OzUthlu0dve55hoFZSRVvNeC39J6S9obZzIBmMPCj5NCnxH4vyA3x23Wgc9LkiHzR8lkV))cMQnHwO036UESZG7pNBUQAi)4)lxqpfNJWsYIZa2GmZl9ZfeAQVsKdReoSi3W8gxOH(CSjrLfBi5yVYkLD98TYq7MWKCIwxzcDTDZeLtCytCF7K3zy5eJMDLUHLEJVUKxU05xnpnBIvTYQqesYLzKfLF4vV1wgFkttqcNM5BvhztmIKrvng3Rw)XRYOx46sBejgmihNXk4PSbEttv4Gsu4Jf0fdp2PCkp8OVSGrN(J71vTXZA187Y6OyC7LHJ0pz(3e(M1wWTUSIkBBVgBgf3RvyqWotPmTDU02OFU37S0ctz8kMfJNvK3JnGluW8moWoGjqPek9r(NjedRvxh(vp6jp6RRp61p)V)d`  
 Import this WeakAura and modify your Burst Toggle macro to look like this:  
-`/xxxxx Burst  
-/run local cvar="Burst" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
+`/xxxxx Burst`  
+`/run local cvar="Burst" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
 It will now toggle an Icon on your screen for when Burst is active.  
 Keep in mind that the WeakAura can get "out of sync" if you restart the rotation with this being active etc.  
