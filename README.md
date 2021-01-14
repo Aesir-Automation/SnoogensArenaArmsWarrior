@@ -3,7 +3,7 @@
 A PVP only rotation bringing all the nifty features that you’ve already seen and building upon it!  
 Special thanks to @Vid for supplying such a great foundation for Arms Warrior PVP - without it I wouldn't have learned all this.  
 
-Unzip and place the `Snoogens Arena Arms Warrior` folder under `X:\AimsharpFolder\Bin\Rotations`  
+Unzip and place the `Snoogens Arena Arms Warrior` folder under your Aimsharp Rotations folder, e.g. `X:\AimsharpFolder\Bin\Rotations`  
 
 ***
 
