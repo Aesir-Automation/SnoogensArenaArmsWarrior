@@ -1,15 +1,17 @@
-# Snoogens Arena Arms Warrior v1.1
+# Snoogens Arena Arms Warrior v1.2
 
 A PVP only rotation bringing all the nifty features that you’ve already seen and building upon it!  
 Special thanks to @Vid for supplying such a great foundation for Arms Warrior PVP - without it I wouldn't have learned all this.  
 
 Unzip and place the `Snoogens Arena Arms Warrior` folder under your Aimsharp Rotations folder, e.g. `X:\AimsharpFolder\Bin\Rotations`  
 
+I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.  
+
 ***
 
 ## Featuring:  
 Burst Mode!  
-•	Revised Burst rotation!  
+•	Optimized Burst rotation!  
 •	Trinket on Burst!  
 Automatic Defensives!  
 •	Ignore Pain @ HP%  
@@ -41,6 +43,10 @@ Toggles Burst mode rotation (off default)
 Toggles use of usable item (such as Phial of Serenity) (off default)  
 `/xxxxx DefensiveStance`  
 Toggles Defensive Stance to be always On (off default)  
+`/xxxxx AvatarManual`  
+Toggles Avatar to be Manual (off by default, therefore Avatar is Automatic when bursting)  
+`/xxxxx BladestormManual`  
+Toggles Bladestorm to be Manual (off by default, therefore Bladestorm is Automatic when bursting)  
 
 ***
 
@@ -49,13 +55,29 @@ Toggles Defensive Stance to be always On (off default)
 I don't personally use Queue commands (because I love spamming buttons, so I use `/xxxxx wait 1` instead) - but if you do, here are the ones available.  
 
 `/xxxxx StormBolt`  
-Queues Storm Bolt on the next GCD  
+Queues Storm Bolt @ Target on the next GCD 
+`/xxxxx StormBoltFocus`
+Queues Storm Bolt @ Focus on the next GCD 
+`/xxxxx IntimidatingShout`  
+Queues Intimidating Shout @ Target on the next GCD  
+`/xxxxx IntimidatingShoutFocus`  
+Queues Intimidating Shout @ Focus on the next GCD 
 `/xxxxx RallyingCry`  
 Queues Rallying Cry on the next GCD  
-`/xxxxx IntimidatingShout`  
-Queues Intimidating Shout on the next GCD  
-`/xxxxx Bladestorm`  
+`/xxxxx BladeStorm`  
 Queues Bladestorm on the next GCD  
+
+***
+## Settings:  
+First 5 Letters of the Addon: - enter your Aimsharp addon's first 5 letters, e.g. if your Aimsharp addon is called `DankMemes`, enter `dankm`.  
+Ingame Latency: - enter your ingame World latency here to make sure rotation and queues are done asap.  
+Top/Bottom Trinket: - Set the one to `Generic` that you want to use during Burst, i.e. your on-use damage trinket.  
+Use item: - Enter the case sensitive name of the item you want to use at a certain HP threshold, such as `Phial of Serenity`. 
+Auto Spell Reflection: - Enables the use of automatic Spell Reflect when possible.  
+Auto Shout for Party Members: - This will make it not only look at your HP%, but also your party members.  
+Auto Shattering Throw: - Enable automatic shattering throw as soon as you stand still if there's a Iceblock or Divine Shield on your target.  
+Auto Disarm: - Disarms the target as soon as they have Avatar or Avenging Wrath.  
+Auto X @ HP%: - Pops the mentioned ability at the defined HP% or below. Set to 100 to use as soon as its available e.g. Victory Rush, or to 0 to use manually e.g. Die by the Sword.  
 
 ***
 
@@ -76,9 +98,6 @@ Disarm without target!
 •	Too lazy to target the Warrior who just popped Avatar?  
 Auto Piercing Howl when target isn't in range and Hamstring isn't applied!  
 •	Not sure, but could be neat if you're lazy I guess?  
-Burst Rotation tweaks 
-• **Fixed in version 1.1, to be released, both standard and burst rotation optimized**  
-• Don't like the rotation? Give me your feedback!  
 
 ***
 
