@@ -90,13 +90,13 @@ Please provide me (in PM, preferably) with your direct feedback. A feature not w
 Auto Stormbolt and Intimidating Shout Options  
 •	Automatically Stormbolt or Intimidating Shouts any healer to extend a CC Chain  
 •	Automatically Stormbolts or Intimidating Shouts any DPS with cooldowns running  
-Diminishing Returns Tracker!  
+Diminishing Returns Tracker! - coming in v1.3  
 •	Don’t throw CCs if target is immune!  
-Don’t hit breakable CC!  
+Don’t hit breakable CC! - have to verify if this is a good idea  
 •	Tired of breaking your team mates CC?  
-Disarm without target!  
+Disarm without target! - coming in v1.3, with some random delay on the Disarm  
 •	Too lazy to target the Warrior who just popped Avatar?  
-Auto Piercing Howl when target isn't in range and Hamstring isn't applied!  
+Auto Piercing Howl when target isn't in range and Hamstring isn't applied! - coming in v1.3, optional as always  
 •	Not sure, but could be neat if you're lazy I guess?  
 
 ***
