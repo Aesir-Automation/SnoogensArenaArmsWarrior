@@ -100,12 +100,12 @@ Auto Spell Reflection: - Enables the use of automatic Spell Reflect when possibl
 Auto Shout for Party Members: - This will make it not only look at your HP%, but also your party members.  
 Auto Shattering Throw: - Enable automatic shattering throw as soon as you stand still if there's a Iceblock or Divine Shield on your target.  
 Auto Disarm: - Disarms the target as soon as they have Avatar or Avenging Wrath (only if Retribution).  
-Auto X @ HP%: - Pops the mentioned ability at the defined HP% or below. Set to 100 to use as soon as its available e.g. Victory Rush, or to 0 to use manually e.g. Die by the Sword.  
 Auto Berserker: - Casts Berserker Rage when you're feared or incapped, but not when Sapped.  
 Auto Heroic Throw: - Casts Heroic Throw on targets which are not under breakable CC to keep them in combat - however not when Bursting (to not use up a GCD).  
 Auto Piercing Howl: - Casts Piercing Howl when the target is just outside of range and doesn't have Hamstring debuff.  
 Auto Focus non-target 2v2: - Focuses whichever arena player you're currently not targetting in 2v2.  
 Auto Focus Healer 3v3: - Focuses the Healer in 3v3.  
+Auto X @ HP%: - Pops the mentioned ability at the defined HP% or below. Set to 100 to use as soon as its available e.g. Victory Rush, or to 0 to use manually e.g. Die by the Sword.  
 
 ***
 
