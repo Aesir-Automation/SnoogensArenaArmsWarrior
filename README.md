@@ -125,7 +125,7 @@ Please provide me (in PM, preferably) with your direct feedback. A feature not w
 **Auto Stormbolt and Intimidating Shout Options**  
 •	Automatically Stormbolt or Intimidating Shouts any healer to extend a CC Chain  
 •	Automatically Stormbolts or Intimidating Shouts any DPS with cooldowns running  
-**Disarm without target!** - coming in v1.4 
+**Disarm without target!** - coming in v1.4  
 •	Too lazy to target the Warrior who just popped Avatar?  
 **Totem Stomp**  
 •	We'll see about this one, hard to implement as I cannot check range to totems.  
