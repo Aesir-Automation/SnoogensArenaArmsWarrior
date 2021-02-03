@@ -36,7 +36,7 @@ https://www.buymeacoffee.com/snoogens
 •	Avatar? Avenging Wrath (but only if they're Ret!)? I don’t think so!  
 **Automatic Shattering Throw!**  
 •	Divine Shield and Ice Block be gone!  
-**Auto Bersker!**  
+**Auto Berserker!**  
 •	Fears and Incaps (but not Sap!) go poof!  
 **Auto Piercing Howl!**  
 •	Slow 'em when they're just too far away!  
