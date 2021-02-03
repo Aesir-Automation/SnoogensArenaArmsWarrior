@@ -74,13 +74,13 @@ Toggles Ancient Aftershock to be Manual (off by default, therefore Ancient After
 ## Queues:    
 
 `/xxxxx StormBolt`  
-Queues Storm Bolt @ Target on the next GCD 
-`/xxxxx StormBoltFocus`
-Queues Storm Bolt @ Focus on the next GCD 
+Queues Storm Bolt @ Target on the next GCD  
+`/xxxxx StormBoltFocus`  
+Queues Storm Bolt @ Focus on the next GCD  
 `/xxxxx IntimidatingShout`  
 Queues Intimidating Shout @ Target on the next GCD  
 `/xxxxx IntimidatingShoutFocus`  
-Queues Intimidating Shout @ Focus on the next GCD 
+Queues Intimidating Shout @ Focus on the next GCD  
 `/xxxxx RallyingCry`  
 Queues Rallying Cry on the next GCD  
 `/xxxxx BladeStorm`  
