@@ -1,4 +1,5 @@
-# Snoogens Arena Arms Warrior v1.3
+# Snoogens Arena Arms Warrior v1.3  
+![alt text](https://i.imgur.com/argGaUc.png)  
 
 A PVP only rotation bringing all the nifty features that you’ve already seen and building upon it!  
 Special thanks to @Vid for supplying such a great foundation for Arms Warrior PVP - without it I wouldn't have learned all this.  
@@ -6,6 +7,9 @@ Special thanks to @Vid for supplying such a great foundation for Arms Warrior PV
 Unzip and place the `Snoogens Arena Arms Warrior` folder under your Aimsharp Rotations folder, e.g. `X:\AimsharpFolder\Bin\Rotations`  
 
 I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.  
+
+If you like my work and want to make sure my wife doesn't complain when I buy too many energy drinks, consider donating:  
+https://www.buymeacoffee.com/snoogens  
 
 ***
 
