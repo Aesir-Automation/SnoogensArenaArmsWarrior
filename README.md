@@ -12,7 +12,7 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 ## Featuring:  
 Burst Mode!  
 •	Optimized Burst rotation!  
-•	Trinket on Burst!  
+•	DPS Trinket on Burst!  
 Automatic Defensives!  
 •	Ignore Pain @ HP%  
 •	Rallying Cry @ HP% (for you and your team mates!)  
@@ -21,18 +21,36 @@ Automatic Defensives!
 •	Phial of Serenity @ HP% (or whatever else you want!)  
 •	Victory Rush @ HP%  
 •	Defensive Stance @ HP% (and unstance!)  
+•	HP Trinket when below 35% HP!  
 Automatic Spell Reflect!  
 •	CCs!  
 •	Big Damage!  
 Automatic Disarm!  
-•	Avatar? Avenging Wrath? I don’t think so!  
+•	Avatar? Avenging Wrath (but only if they're Ret!)? I don’t think so!  
 Automatic Shattering Throw!  
 •	Divine Shield and Ice Block be gone!  
+Auto Bersker!  
+•	Fears and Incaps (but not Sap!) go poof!  
+Auto Piercing Howl!  
+•	Slow 'em when they're just too far away!  
+Auto re-target Feign Death!  
+•	He ain't dead yet, no worries - soon he is!  
+Auto Heroic Throw!  
+•	Keep those pesky players in combat!  
+Auto Taunt Pets!  
+•	Make sure they pets are not annoying your healer!  
 No Rage wasting!  
-•	No Hamstring on Freedom!  
+•	No Hamstring or Piercing Howl on Freedom!  
 •	No Damage on Immunities!  
 •	Overpower preferred on Evasion!  
 •	Condemn on BoP!  
+Auto Focus!  
+•	Focus non-target in 2v2!  
+•	Focus Healer in 3v3!  
+DR check before CC!  
+•	No more wasted Storm Bolts and Intimidating Shouts!  
+Customizable Reaction Time!  
+•	How fast do you want to be to break that Fear? To Disarm that Avatar?  
 
 ***
 
@@ -47,12 +65,13 @@ Toggles Defensive Stance to be always On (off default)
 Toggles Avatar to be Manual (off by default, therefore Avatar is Automatic when bursting)  
 `/xxxxx BladestormManual`  
 Toggles Bladestorm to be Manual (off by default, therefore Bladestorm is Automatic when bursting)  
+`/xxxxx AncientAftershockManual`  
+Toggles Ancient Aftershock to be Manual (off by default, therefore Ancient Aftershock is Automatic when bursting)  
 
 ***
 
   
-## Queues:  
-I don't personally use Queue commands (because I love spamming buttons, so I use `/xxxxx wait 1` instead) - but if you do, here are the ones available.  
+## Queues:    
 
 `/xxxxx StormBolt`  
 Queues Storm Bolt @ Target on the next GCD 
@@ -66,18 +85,27 @@ Queues Intimidating Shout @ Focus on the next GCD
 Queues Rallying Cry on the next GCD  
 `/xxxxx BladeStorm`  
 Queues Bladestorm on the next GCD  
+`/xxxxx SpearofBastion`  
+Queues Spear of Bastion on the next GCD @ Cursor  
+`/xxxxx AncientAftershock`  
+Queues Ancient Aftershock on the next GCD  
 
 ***
 ## Settings:  
 First 5 Letters of the Addon: - enter your Aimsharp addon's first 5 letters, e.g. if your Aimsharp addon is called `DankMemes`, enter `dankm`.  
 Ingame Latency: - enter your ingame World latency here to make sure rotation and queues are done asap.  
-Top/Bottom Trinket: - Set the one to `Generic` that you want to use during Burst, i.e. your on-use damage trinket.  
+Top/Bottom Trinket: - Set the one to `On-use DPS` that you want to use during Burst, i.e. your on-use damage trinket. Set to `On-use HP` to use automatically at 35%  
 Use item: - Enter the case sensitive name of the item you want to use at a certain HP threshold, such as `Phial of Serenity`. 
 Auto Spell Reflection: - Enables the use of automatic Spell Reflect when possible.  
 Auto Shout for Party Members: - This will make it not only look at your HP%, but also your party members.  
 Auto Shattering Throw: - Enable automatic shattering throw as soon as you stand still if there's a Iceblock or Divine Shield on your target.  
-Auto Disarm: - Disarms the target as soon as they have Avatar or Avenging Wrath.  
+Auto Disarm: - Disarms the target as soon as they have Avatar or Avenging Wrath (only if Retribution).  
 Auto X @ HP%: - Pops the mentioned ability at the defined HP% or below. Set to 100 to use as soon as its available e.g. Victory Rush, or to 0 to use manually e.g. Die by the Sword.  
+Auto Berserker: - Casts Berserker Rage when you're feared or incapped, but not when Sapped.  
+Auto Heroic Throw: - Casts Heroic Throw on targets which are not under breakable CC to keep them in combat - however not when Bursting (to not use up a GCD).  
+Auto Piercing Howl: - Casts Piercing Howl when the target is just outside of range and doesn't have Hamstring debuff.  
+Auto Focus non-target 2v2: - Focuses whichever arena player you're currently not targetting in 2v2.  
+Auto Focus Healer 3v3: - Focuses the Healer in 3v3.  
 
 ***
 
@@ -90,14 +118,12 @@ Please provide me (in PM, preferably) with your direct feedback. A feature not w
 Auto Stormbolt and Intimidating Shout Options  
 •	Automatically Stormbolt or Intimidating Shouts any healer to extend a CC Chain  
 •	Automatically Stormbolts or Intimidating Shouts any DPS with cooldowns running  
-Diminishing Returns Tracker! - coming in v1.3  
-•	Don’t throw CCs if target is immune!  
-Don’t hit breakable CC! - have to verify if this is a good idea  
-•	Tired of breaking your team mates CC?  
-Disarm without target! - coming in v1.3, with some random delay on the Disarm  
+Disarm without target! - coming in v1.4 
 •	Too lazy to target the Warrior who just popped Avatar?  
-Auto Piercing Howl when target isn't in range and Hamstring isn't applied! - coming in v1.3, optional as always  
-•	Not sure, but could be neat if you're lazy I guess?  
+Totem Stomp  
+•	We'll see about this one, hard to implement as I cannot check range to totems.  
+Intervene on Sheep  
+•	Maybe, it's a bit risky.  
 
 ***
 
