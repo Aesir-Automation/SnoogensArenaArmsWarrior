@@ -1,4 +1,4 @@
-# Snoogens Arena Arms Warrior v1.3  
+# Snoogens Arena Arms Warrior v1.3.1  
 ![alt text](https://i.imgur.com/m4bFPVJ.jpg)  
 
 A PVP only rotation bringing all the nifty features that you’ve already seen and building upon it!  
@@ -33,7 +33,7 @@ https://www.buymeacoffee.com/snoogens
 •	CCs!  
 •	Big Damage!  
 **Automatic Disarm!**  
-•	Avatar? Avenging Wrath (but only if they're Ret!)? I don’t think so!  
+•	Avatar? Avenging Wrath (but only if they're Ret!)? I don’t think so! You don't even need to target them!  
 **Automatic Shattering Throw!**  
 •	Divine Shield and Ice Block be gone!  
 **Auto Berserker!**  
@@ -96,6 +96,8 @@ Queues Bladestorm on the next GCD
 Queues Spear of Bastion on the next GCD @ Cursor  
 `/xxxxx AncientAftershock`  
 Queues Ancient Aftershock on the next GCD  
+`/xxxxx DoorofShadows` 
+Queues Door of Shadows on the next GCD @ Cursor - cancels if you get interrupted or move
 
 ***
 ## Settings:  
@@ -125,8 +127,6 @@ Please provide me (in PM, preferably) with your direct feedback. A feature not w
 **Auto Stormbolt and Intimidating Shout Options**  
 •	Automatically Stormbolt or Intimidating Shouts any healer to extend a CC Chain  
 •	Automatically Stormbolts or Intimidating Shouts any DPS with cooldowns running  
-**Disarm without target!** - coming in v1.4  
-•	Too lazy to target the Warrior who just popped Avatar?  
 **Totem Stomp**  
 •	We'll see about this one, hard to implement as I cannot check range to totems.  
 **Intervene on Sheep**  
