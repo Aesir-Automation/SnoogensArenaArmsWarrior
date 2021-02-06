@@ -96,8 +96,8 @@ Queues Bladestorm on the next GCD
 Queues Spear of Bastion on the next GCD @ Cursor  
 `/xxxxx AncientAftershock`  
 Queues Ancient Aftershock on the next GCD  
-`/xxxxx DoorofShadows` 
-Queues Door of Shadows on the next GCD @ Cursor - cancels if you get interrupted or move
+`/xxxxx DoorofShadows`  
+Queues Door of Shadows on the next GCD @ Cursor - cancels if you get interrupted or move  
 
 ***
 ## Settings:  
