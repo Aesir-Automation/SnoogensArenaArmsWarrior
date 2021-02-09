@@ -1,4 +1,4 @@
-# Snoogens Arena Arms Warrior v1.3.1  
+# Snoogens Arena Arms Warrior v1.4  
 ![alt text](https://i.imgur.com/m4bFPVJ.jpg)  
 
 A PVP only rotation bringing all the nifty features that you’ve already seen and building upon it!  
@@ -70,6 +70,8 @@ Toggles use of usable item (such as Phial of Serenity) (off default)
 Toggles Defensive Stance to be always On (off default)  
 `/xxxxx AvatarManual`  
 Toggles Avatar to be Manual (off by default, therefore Avatar is Automatic when bursting)  
+`/xxxxx SweepingStrikesManual`  
+Toggles Sweeping Strikes to be Manual (off by default, therefore Sweeping Strikes is Automatic) 
 `/xxxxx BladestormManual`  
 Toggles Bladestorm to be Manual (off by default, therefore Bladestorm is Automatic when bursting)  
 `/xxxxx AncientAftershockManual`  
