@@ -1,4 +1,4 @@
-# Snoogens Arena Arms Warrior v1.4  
+# Snoogens Arena Arms Warrior v1.5 
 ![alt text](https://i.imgur.com/m4bFPVJ.jpg)  
 
 A PVP only rotation bringing all the nifty features that you’ve already seen and building upon it!  
