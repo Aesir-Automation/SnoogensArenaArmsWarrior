@@ -4,12 +4,9 @@
 A PVP only rotation bringing all the nifty features that you’ve already seen and building upon it!  
 Special thanks to @Vid for supplying such a great foundation for Arms Warrior PVP - without it I wouldn't have learned all this.  
 
-Unzip and place the `Snoogens Arena Arms Warrior` folder under your Aimsharp Rotations folder, e.g. `X:\AimsharpFolder\Bin\Rotations`  
+Unzip and place the `Snoogens-Arena-Arms-Warrior` folder under your Aimsharp Rotations folder, e.g. `X:\AimsharpFolder\Bin\Rotations`  
 
 I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.  
-
-![alt text](https://i.imgur.com/PVz29Hx.png)  
-![alt text](https://i.imgur.com/lQw5dhh.png)  
 
 If you like my work and want to make sure my wife doesn't complain when I buy too many energy drinks, consider donating:  
 https://www.buymeacoffee.com/snoogens  
@@ -20,6 +17,7 @@ https://www.buymeacoffee.com/snoogens
 **Burst Mode!**  
 •	Optimized Burst rotation!  
 •	DPS Trinket on Burst!  
+• Racial support for extra burst damage!  
 **Automatic Defensives!**  
 •	Ignore Pain @ HP%  
 •	Rallying Cry @ HP% (for you and your team mates!)  
@@ -46,6 +44,10 @@ https://www.buymeacoffee.com/snoogens
 •	Keep those pesky players in combat!  
 **Auto Taunt Pets!**  
 •	Make sure they pets are not annoying your healer!  
+**Auto Shield and Block!**  
+• A melee class trying to absolutely murder you? Hello 100% block chance!  
+**Auto Panic CC!**  
+• You're super low, things are flying everywhere, what do you do? In the heat of the moment you've forgotten to use your CDs. No worries, I got you.  
 **No Rage wasting!**  
 •	No Hamstring or Piercing Howl on Freedom!  
 •	No Damage on Immunities!  
@@ -68,6 +70,11 @@ Toggles Burst mode rotation (off default)
 Toggles use of usable item (such as Phial of Serenity) (off default)  
 `/xxxxx DefensiveStance`  
 Toggles Defensive Stance to be always On (off default)  
+`/xxxxx ShieldBlock`  
+Toggles ShieldPVP equipment to be on and to start using Shield Block  
+To use this feature you need two Equipment Sets: one named `ShieldPVP` which contains your 1H Weapon and Shield, and one named `ArmsPVP` which contains your 2H Weapon.  
+`/xxxxx PhialManual`  
+Toggles Phial of Serenity to be manual (off by default, therefore Phial of Serenity is Automatic according to HP% set)  
 `/xxxxx AvatarManual`  
 Toggles Avatar to be Manual (off by default, therefore Avatar is Automatic when bursting)  
 `/xxxxx SweepingStrikesManual`  
@@ -76,6 +83,8 @@ Toggles Sweeping Strikes to be Manual (off by default, therefore Sweeping Strike
 Toggles Bladestorm to be Manual (off by default, therefore Bladestorm is Automatic when bursting)  
 `/xxxxx AncientAftershockManual`  
 Toggles Ancient Aftershock to be Manual (off by default, therefore Ancient Aftershock is Automatic when bursting)  
+`/xxxxx RacialManual`  
+Toggles Racial to be manual (off by default, therefore Racial is Automatic when bursting)  
 
 ***
 
@@ -117,6 +126,14 @@ Queues Door of Shadows on the next GCD @ Cursor - cancels if you get interrupted
 **Auto Focus non-target 2v2:** - Focuses whichever arena player you're currently not targetting in 2v2.  
 **Auto Focus Healer 3v3:** - Focuses the Healer in 3v3.  
 **Auto X @ HP%:** - Pops the mentioned ability at the defined HP% or below. Set to 100 to use as soon as its available e.g. Victory Rush, or to 0 to use manually e.g. Die by the Sword.  
+**Auto Stance @ HP%:** - Automatically places you into Defensive Stance once you reach the set HP% or below.  
+**Auto Unstance @ HP%:** - Automatically places you into Battle Stance once you reach the set HP% or above.  
+**Panic CC @ HP%:** - Automatically CCs your target if it isn't already with whatever you have available at the set HP% or below - keep this one low, it's a last ditch attempt to survive.  
+**Auto Retarget Feign Death:** - Automatically attempts to retarget the hunter after they Feign Death.  
+**Auto Shield and Re-equip:** - Enables the auto function below for automatic equipping of Shield and re-equip of 2h weapon. Disable this if you want to use the toggle ShieldBlock.  
+To use this feature you need two Equipment Sets: one named `ShieldPVP` which contains your 1H Weapon and Shield, and one named `ArmsPVP` which contains your 2H Weapon. 
+**Auto Shield and Block @ HP%** - Automatically equips the set "ShieldPVP" at the set HP% or below and starts using Shield Block.  
+**Auto Re-equip 2-Hander 2 HP%** - Automatically equips the set "ArmsPVP" at the set HP% or above.  
 
 ***
 
@@ -131,14 +148,13 @@ Please provide me (in PM, preferably) with your direct feedback. A feature not w
 •	Automatically Stormbolts or Intimidating Shouts any DPS with cooldowns running  
 **Totem Stomp**  
 •	We'll see about this one, hard to implement as I cannot check range to totems.  
-**Intervene on Sheep**  
-•	Maybe, it's a bit risky.  
 
 ***
 
 ## Disclaimer:  
 I can't help you with Aimsharp client issues. If your Aimsharp doesn't work, please fix that first.  
-Auto Spell Reflection is what it is - i.e. you can never really know if a spell is being cast on you unless they target you (i.e. don't use mouseover macros etc), so it doesn't catch all - but some atleast!    
+Auto Spell Reflection is what it is - i.e. you can never really know if a spell is being cast on you unless they target you (i.e. don't use mouseover macros etc), so it doesn't catch all - but some atleast!  
+Auto Retarget Feign Death is not working most of the time, trying to find a better solution.  
 
 ## Advanced Users:  
 You can use WeakAuras to see what you've toggled on, helps to realize if you've kept Burst on but forgot about it.
