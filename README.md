@@ -1,4 +1,4 @@
-# Snoogens Arena Arms Warrior v1.5 
+# Snoogens Arena Arms Warrior v1.6 
 ![alt text](https://i.imgur.com/m4bFPVJ.jpg)  
 
 A PVP only rotation bringing all the nifty features that you’ve already seen and building upon it!  
@@ -18,6 +18,10 @@ https://www.buymeacoffee.com/snoogens
 •	Optimized Burst rotation!  
 •	DPS Trinket on Burst!  
 • Racial support for extra burst damage!  
+**Auto Target!**
+•	Makes youre your targeting a player, not a pet, mirror image etc!  
+•	If there's a Totem, all you have to do is press tab and it will skip the unecessary things to find the totem, Overpower it then target an enemy again!  
+•	If there's a Wildseed, all you have to do is press tab and it will skip the unecessary things to find the Wildseed!  
 **Automatic Defensives!**  
 •	Ignore Pain @ HP%  
 •	Rallying Cry @ HP% (for you and your team mates!)  
@@ -32,6 +36,8 @@ https://www.buymeacoffee.com/snoogens
 •	Big Damage!  
 **Automatic Disarm!**  
 •	Avatar? Avenging Wrath (but only if they're Ret!)? I don’t think so! You don't even need to target them!  
+**Auto Duel!**  
+•	Target popped a big damage CD? They're not going for you? Pops Duel!  
 **Automatic Shattering Throw!**  
 •	Divine Shield and Ice Block be gone!  
 **Auto Berserker!**  
@@ -60,12 +66,18 @@ https://www.buymeacoffee.com/snoogens
 •	No more wasted Storm Bolts and Intimidating Shouts!  
 **Customizable Reaction Time!**  
 •	How fast do you want to be to break that Fear? To Disarm that Avatar?  
+**Auto Cancel Sweeping Strikes!**  
+•	You're about to kill your target, however he just ran over to his CC'd healer? No worries, Sweeping Strike gets cancelled.  
+**Auto Taunt!**  
+•	Target's out of combat? No Heroic Throw? Well, ya got Taunt!  
 
 ***
 
 ## Toggles:  
 `/xxxxx Burst`  
 Toggles Burst mode rotation (off default)  
+`/xxxxx Burst`  
+Toggles Auto Target (off default)  
 `/xxxxx Potions`  
 Toggles use of usable item (such as Phial of Serenity) (off default)  
 `/xxxxx DefensiveStance`  
@@ -120,8 +132,10 @@ Queues Door of Shadows on the next GCD @ Cursor - cancels if you get interrupted
 **Auto Shout for Party Members:** - This will make it not only look at your HP%, but also your party members.  
 **Auto Shattering Throw:** - Enable automatic shattering throw as soon as you stand still if there's a Iceblock or Divine Shield on your target.  
 **Auto Disarm:** - Disarms the target as soon as they have Avatar or Avenging Wrath (only if Retribution).  
+**Auto Duel:** - Casts Duel on the target if they have popped a damage CD and they aren't targetting you.  
 **Auto Berserker:** - Casts Berserker Rage when you're feared or incapped, but not when Sapped.  
 **Auto Heroic Throw:** - Casts Heroic Throw on targets which are not under breakable CC to keep them in combat - however not when Bursting (to not use up a GCD).  
+**Auto Taunt:** - Casts Taunt on the target if they are out of range and out of combat.  
 **Auto Piercing Howl:** - Casts Piercing Howl when the target is just outside of range and doesn't have Hamstring debuff.  
 **Auto Focus non-target 2v2:** - Focuses whichever arena player you're currently not targetting in 2v2.  
 **Auto Focus Healer 3v3:** - Focuses the Healer in 3v3.  
@@ -146,8 +160,6 @@ Please provide me (in PM, preferably) with your direct feedback. A feature not w
 **Auto Stormbolt and Intimidating Shout Options**  
 •	Automatically Stormbolt or Intimidating Shouts any healer to extend a CC Chain  
 •	Automatically Stormbolts or Intimidating Shouts any DPS with cooldowns running  
-**Totem Stomp**  
-•	We'll see about this one, hard to implement as I cannot check range to totems.  
 
 ***
 
