@@ -18,7 +18,7 @@ https://www.buymeacoffee.com/snoogens
 •	Optimized Burst rotation!  
 •	DPS Trinket on Burst!  
 • Racial support for extra burst damage!  
-**Auto Target!**
+**Auto Target!**  
 •	Makes youre your targeting a player, not a pet, mirror image etc!  
 •	If there's a Totem, all you have to do is press tab and it will skip the unecessary things to find the totem, Overpower it then target an enemy again!  
 •	If there's a Wildseed, all you have to do is press tab and it will skip the unecessary things to find the Wildseed!  
@@ -75,9 +75,9 @@ https://www.buymeacoffee.com/snoogens
 
 ## Toggles:  
 `/xxxxx Burst`  
-Toggles Burst mode rotation (off default)  
+Toggles Burst mode rotation On (off default)  
 `/xxxxx AutoTarget`  
-Toggles Auto Target (off default)  
+Toggles Auto Target On (off default)  
 `/xxxxx Potions`  
 Toggles use of usable item (such as Phial of Serenity) (off default)  
 `/xxxxx DefensiveStance`  
