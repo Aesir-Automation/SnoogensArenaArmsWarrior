@@ -76,7 +76,7 @@ https://www.buymeacoffee.com/snoogens
 ## Toggles:  
 `/xxxxx Burst`  
 Toggles Burst mode rotation (off default)  
-`/xxxxx Burst`  
+`/xxxxx AutoTarget`  
 Toggles Auto Target (off default)  
 `/xxxxx Potions`  
 Toggles use of usable item (such as Phial of Serenity) (off default)  
