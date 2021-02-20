@@ -19,7 +19,7 @@ https://www.buymeacoffee.com/snoogens
 •	DPS Trinket on Burst!  
 • Racial support for extra burst damage!  
 **Auto Target!**  
-•	Makes youre your targeting a player, not a pet, mirror image etc!  
+•	Makes sure you're your targeting a player, not a pet, mirror image etc!  
 •	If there's a Totem, all you have to do is press tab and it will skip the unecessary things to find the totem, Overpower it then target an enemy again!  
 •	If there's a Wildseed, all you have to do is press tab and it will skip the unecessary things to find the Wildseed!  
 **Automatic Defensives!**  
