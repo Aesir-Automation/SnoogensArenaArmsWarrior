@@ -8,6 +8,8 @@ Unzip and place the `Snoogens-Arena-Arms-Warrior` folder under your Aimsharp Rot
 
 I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.  
 
+Discord: https://discord.gg/VksJWWk9PS  
+
 If you like my work and want to make sure my wife doesn't complain when I buy too many energy drinks, consider donating:  
 https://www.buymeacoffee.com/snoogens  
 
