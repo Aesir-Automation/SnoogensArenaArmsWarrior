@@ -46,8 +46,8 @@ https://www.buymeacoffee.com/snoogens
 •	Fears and Incaps (but not Sap!) go poof!  
 **Auto Piercing Howl!**  
 •	Slow 'em when they're just too far away!  
-**Auto re-target Feign Death!**  
-•	He ain't dead yet, no worries - soon he is!  
+**Auto CC Focus when Bursting!**  
+•	Don't want to manage CC on your focus when Bursting? No problem, I'll check if your focus is CC'd, immune etc then CC him for you!  
 **Auto Heroic Throw!**  
 •	Keep those pesky players in combat!  
 **Auto Taunt Pets!**  
@@ -72,6 +72,8 @@ https://www.buymeacoffee.com/snoogens
 •	You're about to kill your target, however he just ran over to his CC'd healer? No worries, Sweeping Strike gets cancelled.  
 **Auto Taunt!**  
 •	Target's out of combat? No Heroic Throw? Well, ya got Taunt!  
+**Auto Demon Hunter The Hunt Reaction**  
+•	Demon Hunter about to ruin your day with The Hunt? No worries, we've got defensives for that.  
 
 ***
 
@@ -132,6 +134,7 @@ Queues Door of Shadows on the next GCD @ Cursor - cancels if you get interrupted
 **Use item:** - Enter the case sensitive name of the item you want to use at a certain HP threshold, such as `Phial of Serenity`.   
 **Auto Spell Reflection:** - Enables the use of automatic Spell Reflect when possible.  
 **Auto Shout for Party Members:** - This will make it not only look at your HP%, but also your party members.  
+**Auto DbtS DH The Hunt:** - This will automatically cast Die by the Sword before the Demon Hunter finishes his cast of The Hunt on you.  
 **Auto Shattering Throw:** - Enable automatic shattering throw as soon as you stand still if there's a Iceblock or Divine Shield on your target.  
 **Auto Disarm:** - Disarms the target as soon as they have Avatar or Avenging Wrath (only if Retribution).  
 **Auto Duel:** - Casts Duel on the target if they have popped a damage CD and they aren't targetting you.  
