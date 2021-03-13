@@ -24,7 +24,7 @@ https://www.buymeacoffee.com/snoogens
 •	Makes sure you're your targeting a player, not a pet, mirror image etc!  
 •	If there's a Totem, all you have to do is press tab and it will skip the unecessary things to find the totem, Overpower it then target an enemy again!  
 •	If there's a Wildseed, all you have to do is press tab and it will skip the unecessary things to find the Wildseed!  
-**Automatic Defensives!**  
+**Auto Defensives!**  
 •	Ignore Pain @ HP%  
 •	Rallying Cry @ HP% (for you and your team mates!)  
 •	Die by the Sword @ HP%  
@@ -33,14 +33,14 @@ https://www.buymeacoffee.com/snoogens
 •	Victory Rush @ HP%  
 •	Defensive Stance @ HP% (and unstance!)  
 •	HP Trinket when below 35% HP!  
-**Automatic Spell Reflect!**  
+**Auto Spell Reflect!**  
 •	CCs!  
 •	Big Damage!  
-**Automatic Disarm!**  
+**Auto Disarm!**  
 •	Avatar? Avenging Wrath (but only if they're Ret!)? I don’t think so! You don't even need to target them!  
 **Auto Duel!**  
 •	Target popped a big damage CD? They're not going for you? Pops Duel!  
-**Automatic Shattering Throw!**  
+**Auto Shattering Throw!**  
 •	Divine Shield and Ice Block be gone!  
 **Auto Berserker!**  
 •	Fears and Incaps (but not Sap!) go poof!  
@@ -56,11 +56,6 @@ https://www.buymeacoffee.com/snoogens
 • A melee class trying to absolutely murder you? Hello 100% block chance!  
 **Auto Panic CC!**  
 • You're super low, things are flying everywhere, what do you do? In the heat of the moment you've forgotten to use your CDs. No worries, I got you.  
-**No Rage wasting!**  
-•	No Hamstring or Piercing Howl on Freedom!  
-•	No Damage on Immunities!  
-•	Overpower preferred on Evasion!  
-•	Condemn on BoP!  
 **Auto Focus!**  
 •	Focus non-target in 2v2!  
 •	Focus Healer in 3v3!  
@@ -74,6 +69,12 @@ https://www.buymeacoffee.com/snoogens
 •	Target's out of combat? No Heroic Throw? Well, ya got Taunt!  
 **Auto Demon Hunter The Hunt Reaction**  
 •	Demon Hunter about to ruin your day with The Hunt? No worries, we've got defensives for that.  
+**No Rage wasting!**  
+•	No Hamstring or Piercing Howl on Movement Immunities!  
+•	No Damage on Immunities!  
+•	Overpower preferred on Evasion!  
+•	Condemn on BoP!  
+•	No damage when under the effect of Mindgames!  
 
 ***
 
