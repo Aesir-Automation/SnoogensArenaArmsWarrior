@@ -1,5 +1,5 @@
 # Snoogens Arena Arms Warrior v1.7 
-![alt text](https://i.imgur.com/hWiNT2z.png)  
+![alt text](https://i.imgur.com/b3Ml4wj.png)  
 
 A PVP only rotation bringing all the nifty features that you’ve already seen and building upon it!  
 Special thanks to @Vid for supplying such a great foundation for Arms Warrior PVP - without it I wouldn't have learned all this.  
