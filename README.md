@@ -95,7 +95,7 @@ Toggles Phial of Serenity to be manual (off by default, therefore Phial of Seren
 `/xxxxx AvatarManual`  
 Toggles Avatar to be Manual (off by default, therefore Avatar is Automatic when bursting)  
 `/xxxxx SweepingStrikesManual`  
-Toggles Sweeping Strikes to be Manual (off by default, therefore Sweeping Strikes is Automatic) 
+Toggles Sweeping Strikes to be Manual (off by default, therefore Sweeping Strikes is Automatic)  
 `/xxxxx BladestormManual`  
 Toggles Bladestorm to be Manual (off by default, therefore Bladestorm is Automatic when bursting)  
 `/xxxxx AncientAftershockManual`  
