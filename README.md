@@ -11,7 +11,7 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 
 WeakAuras can be found here:  
 https://wago.io/jDw9bA5wW  
-Password: aimsharp  
+Password: `aimsharp`  
 
 
 
