@@ -95,8 +95,6 @@ Password: `aimsharp`
 ## Toggles:  
 `/xxxxx Burst`  
 Toggles Burst mode rotation On (off default)  
-`/xxxxx AutoTarget`  
-Toggles Auto Target On (off default)  
 `/xxxxx Potions`  
 Toggles use of usable item (such as Phial of Serenity) (off default)  
 `/xxxxx DefensiveStance`  
