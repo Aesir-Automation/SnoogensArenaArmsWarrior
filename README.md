@@ -1,4 +1,4 @@
-# Snoogens Arena Arms Warrior v1.7 
+# Snoogens Arena Arms Warrior v2.0  
 ![alt text](https://i.imgur.com/b3Ml4wj.png)  
 
 A PVP only rotation with a specific focus on Arena, however with support for Battleground usage.  
