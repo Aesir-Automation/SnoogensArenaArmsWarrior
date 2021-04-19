@@ -93,6 +93,9 @@ Password: `aimsharp`
 •	Condemn on BoP!  
 •	No damage when under the effect of Mindgames!  
 
+**Custom WeakAura Support!**  
+•	A customized WeakAura that shows which toggles you have enabled etc.  
+
 ***
 
 ## Toggles:  
