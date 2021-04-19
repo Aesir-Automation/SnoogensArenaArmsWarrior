@@ -23,6 +23,9 @@ Password: `aimsharp`
 •	DPS Trinket on Burst!  
 • Racial support for extra burst damage!  
 
+**Meta Legendary Support!**  
+•	Full Support for meta legendaries such as The Executioner/Exploiter!  
+
 **Auto Defensives!**  
 •	Ignore Pain @ HP%  
 •	Rallying Cry @ HP% (for you and your team mates!)  
