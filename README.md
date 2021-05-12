@@ -25,7 +25,7 @@ Password: `aimsharp`
 • Racial support for extra burst damage!  
 
 **Meta Legendary Support!**  
-•	Full Support for meta legendaries such as The Executioner/Exploiter!  
+•	Full Support for meta legendaries such as The Executioner/Exploiter and Misshapen Mirror!  
 
 **Auto Defensives!**  
 •	Ignore Pain @ HP%  
@@ -102,8 +102,8 @@ Password: `aimsharp`
 ## Toggles:  
 `/xxxxx Burst`  
 Toggles Burst mode rotation On (off default)  
-`/xxxxx Potions`  
-Toggles use of usable item (such as Phial of Serenity) (off default)  
+`/xxxxx MortalWounds`  
+Toggles Mortal Wounds 100% uptime On (off default)  
 `/xxxxx DefensiveStance`  
 Toggles Defensive Stance to be always On (off default)  
 `/xxxxx PhialManual`  
