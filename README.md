@@ -25,7 +25,7 @@ Password: `aimsharp`
 • Racial support for extra burst damage!  
 
 **Meta Legendary Support!**  
-•	Full Support for meta legendaries such as The Executioner/Exploiter and Misshapen Mirror!  
+•	Full Support for meta legendaries such as The Executioner/Exploiter, Misshapen Mirror, Battlelord and Enduring Blow!  
 
 **Auto Defensives!**  
 •	Ignore Pain @ HP%  
